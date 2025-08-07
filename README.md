@@ -22,7 +22,6 @@ direction TB
 	    atender()
 	    iniciarCorreioVoz()
     }
-	<<Interface>> IPhone
     RepordutorMusical <|-- IPhone
     NavegadorInternet <|-- IPhone
     AparelhoTelefonico <|-- IPhone
