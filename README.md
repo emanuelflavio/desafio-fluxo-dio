@@ -1,3 +1,4 @@
+```mermaid
 ---
 config:
   theme: redux-dark
@@ -25,3 +26,4 @@ direction TB
     RepordutorMusical <|-- IPhone
     NavegadorInternet <|-- IPhone
     AparelhoTelefonico <|-- IPhone
+```
